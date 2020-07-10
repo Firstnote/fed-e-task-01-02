@@ -1,0 +1,8 @@
+{
+  "name": "fed-e-task-01-02",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/guoshicheng/fed-e-task-01-02.git",
+  "author": "guoshicheng <programmerguo@gmail.com>",
+  "license": "MIT"
+}
